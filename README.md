@@ -1,5 +1,11 @@
 # 📊 Excel Sales Tracker Dashboard (Business-Friendly)
 
+
+## 📷 Dashboard Preview
+
+![Excel Sales Tracker Dashboard](ExcelWorkbook/dashboard.png)
+
+
 ## 📌 Project Overview
 This project was inspired by a real-world scenario where a small business owner reached out on Twitter asking for help to better understand her sales, profit, expenses, and inventory using **Excel only**.
 
@@ -101,6 +107,12 @@ This project demonstrates that **business-first analytics** does not require com
 With the right structure and logic, Excel alone can deliver powerful, actionable insights for small businesses.
 
 ---
+## 📥 Download the Excel File
+
+👉 [Download Excel Sales Tracker](ExcelWorkbook/Business_Sales_Tracker.xlsx)
+
+
+
 
 ## 📬 Contact
 If you’re interested in:
